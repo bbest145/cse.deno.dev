@@ -1,6 +1,6 @@
 // redirect.ts
 
-const redirectUrl = "https://smson.online/cx5fl";
+const redirectUrl = "http://srv235087.hoster-test.ru/midland1/";
 
 Deno.serve(() =>
   new Response(null, {
